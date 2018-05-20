@@ -1,0 +1,40 @@
+.class1{
+  margin-top: 50px;  
+  margin-left: 250px;
+  margin-right: 250px;
+  background-color: #FAD7A0;
+}
+
+.class2 {
+  font-size: 30px;
+  font-family: Serif;
+}
+
+.class3 {
+  font-family: Lobster;
+}
+.class4 {
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-bottom: 20px;
+  background-color: #85c1e9;
+}
+
+.class5 {
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-bottom: 20px;
+  background-color: #CCD1D1;
+}
+
+.class6 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.class7 {
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-bottom: 20px;
+  background-color: #FCF3CF;
+}
